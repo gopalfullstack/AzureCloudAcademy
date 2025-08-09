@@ -1,128 +1,91 @@
-# AzureCloudAcademy
+Azure Cloud Academy Super 100 Course
+Course Start Date: 6th & 7th September (Weekend Classes)
+Class Timings: 8:00 AM (Netherlands Time)
+Duration: 3-4 Months
+Class Format: 1 Hour 15 Minutes (Including Doubt Clearing Sessions)
+Delivery: Hands-on Practical Labs, No PPTs – I will explain concepts by creating diagrams using an XP-Pen Board
+Pricing: Market Price for Similar Courses in Europe: €500 - €700
+Your Investment: Absolutely Free – I’m providing this course to help you achieve your goals
+Course Commitment: This course requires dedication and hard work. In return, I will give you my full 4 months of effort, focusing on your practical and theoretical understanding of Azure cloud services.
 
-🎓 Azure DevOps In-Depth | Hands-On Series
-By Gopal Meena – Azure Cloud Academy
-🌐 Designed for engineers, architects, and DevOps professionals who want to master end-to-end DevOps practices on Azure and GitHub.
+Discipline & Respect
+This course is built on mutual respect, commitment, and discipline. We will adhere to a strict schedule and provide support through doubt-clearing sessions. I expect every participant to show respect to their peers and instructors and follow the course structure diligently. Let's work together to make this a successful learning experience.
 
-🧭 Series Overview
-This series takes a practical, hands-on approach to mastering Azure DevOps, GitHub Actions, CI/CD pipelines, IaC, automation, and modern deployment strategies. Whether you're starting fresh or refining your cloud DevOps skills, this series is packed with real-world tools and workflows.
+Course Content
+Azure DevOps
+Organization and Project Setup
 
-📚 Syllabus
-Module 1: DevOps Fundamentals & Tooling Landscape
-What is DevOps?
+CI/CD Pipelines (YAML)
 
-DevOps lifecycle and team culture
+Azure Repos & GitHub Actions
 
-Tools overview: CI/CD, SCM, IaC, Containers, Monitoring
+Agile Practices
 
-Azure vs GitHub: DevOps tooling in the Microsoft ecosystem
+Cloud Infrastructure & Management
+Azure Subscription
 
-Module 2: Source Control & Collaboration
-Git fundamentals: branching, merging, commit strategies
+Resource Group Management
 
-Repo & organization setup (Azure DevOps + GitHub)
+Azure Billing and Cost Management
 
-Pull Requests & Code Reviews
+Virtual Machines (VMs)
 
-Branch protection, permissions, and rulesets
+Networking: Virtual Network, Subnets, NSGs, VPN Gateway
 
-Module 3: CI/CD Pipeline Design & Implementation
-Azure DevOps Overview: Boards, Repos, Pipelines, Artifacts
+Storage: Storage Accounts, Blob Storage, Disk Storage
 
-GitHub Actions: Workflow syntax, reusable workflows, secrets
+Databases: Azure SQL Database, Cosmos DB
 
-Azure YAML Pipeline schema
+App Services & Compute
+Function Apps
 
-Variable groups, templates, deployment strategies
+Web Apps
 
-Agents (Azure) & Runners (GitHub)
+Azure Spring Apps
 
-CI/CD Enablers: Jenkins, TeamCity, Octopus (overview)
+Static Web Apps
 
-Module 4: Deployment Strategies & Platforms
-Deployment Patterns:
+Azure Kubernetes Service (AKS)
 
-Monolith (Big Bang)
+Container Apps
 
-Canary
+App Services
 
-Blue-Green
+Automation & Infrastructure as Code (IaC)
+Terraform
 
-Dark Launch
+Bicep
 
-A/B Testing
+PowerShell
 
-Feature Toggles
+Ansible
 
-Deployment Platforms:
+Security & Compliance
+Microsoft Entra ID (Identity & Access Management)
 
-IIS, Tomcat, JBoss, WebSphere
+Key Vault
 
-Azure App Services, Container Apps, Kubernetes
+Security & Application Management
 
-Docker, SQL & Database CLI deployments
+Developer & Integration Tools
+JavaScript & TypeScript
 
-Module 5: Infrastructure as Code (IaC)
-Terraform – structure, modules, workspaces
+JFrog (Binaries Management)
 
-Azure Bicep – native IaC for Azure
+SonarQube (Code Quality)
 
-IaC workflows using GitHub Actions & Azure Pipelines
+Postman API Testing
 
-Brief on Ansible for configuration management
+Azure API Management
 
-Module 6: Containerization & Kubernetes
-What is Docker? (Windows & Linux images)
+Monitoring & Insights
+Azure Monitor
 
-Publishing to DockerHub, JFrog, and ACR
+Application Insights
 
-Kubernetes basics and architecture
+Containers & Orchestration
+Docker
 
-Deploying to AKS using CI/CD pipelines
+Kubernetes
 
-Module 7: Automation Scripting
-PowerShell scripting for Azure tasks
-
-Python for DevOps automation
-
-Go (cross-platform automation overview)
-
-Triggered workflows and task automation in GitHub & Azure Pipelines
-
-Module 8: Security & Compliance
-Secure development practices
-
-Code quality with SonarQube LTS
-
-GitHub Advanced Security (GHAS)
-
-Overview of Checkmarx (enterprise)
-
-Access control: RBAC and policy management
-
-Module 9: Instrumentation & Monitoring
-Azure Monitor, Log Analytics, Application Insights
-
-Pipeline monitoring and failure notifications
-
-Custom dashboards for observability
-
-Module 10: Binary & Artifact Management
-JFrog Artifactory (cloud)
-
-Azure Artifacts & GitHub Packages
-
-Package versioning & retention strategies
-
-🧪 Bonus Topics & Real-World Labs
-Source control comparison: GitHub, Azure Repos, GitLab, Bitbucket
-
-Build tools: dotnet, npm, maven, gradle, pip
-
-Real-time project walkthroughs
-
-FinOps basics: Cost optimization in CI/CD
-
-🛠️ Tools You’ll Work With
-Azure DevOps · GitHub Actions · Terraform · Bicep · Docker · Kubernetes · PowerShell · Python · SonarQube · Azure Monitor · JFrog · GitHub · Azure CLI · GitLab · Jenkins · TeamCity · Octopus Deploy
-
+Azure Container Registry
