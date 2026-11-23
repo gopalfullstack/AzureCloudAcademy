@@ -6,16 +6,16 @@ Build an AI-powered enterprise FinOps prototype from the ground up. The programm
 
 ## Course modules
 
-| Module | Topic | Days | Guide |
+| Module | Topic | Days | Module guide | Daily lessons |
 |---|---|---:|---|
-| 01 | Python, Git and Software Engineering | 1–7 | [Open Module 01](./module-01-python-git.md) |
-| 02 | Azure Cloud and Data Engineering | 8–15 | [Open Module 02](./module-02-azure-data-engineering.md) |
-| 03 | FinOps Analytics and Database Engineering | 16–22 | [Open Module 03](./module-03-finops-analytics.md) |
-| 04 | Docker, Kubernetes, AKS and Container FinOps | 23–30 | [Open Module 04](./module-04-kubernetes-aks-finops.md) |
-| 05 | Generative AI, Microsoft Foundry and RAG | 31–37 | [Open Module 05](./module-05-generative-ai-rag.md) |
-| 06 | AI Agents, Anomaly Detection and Predictive FinOps | 38–44 | [Open Module 06](./module-06-ai-agents-predictive-finops.md) |
-| 07 | FastAPI, Terraform, DevOps and Deployment | 45–52 | [Open Module 07](./module-07-fastapi-terraform-devops.md) |
-| 08 | Security, Testing and Final Product | 53–60 | [Open Module 08](./module-08-security-testing-final-product.md) |
+| 01 | Python, Git and Software Engineering | 1–7 | [Module 01](./module-01-python-git.md) | [7 daily guides](./module-01-daily-lessons/) |
+| 02 | Azure Cloud and Data Engineering | 8–15 | [Module 02](./module-02-azure-data-engineering.md) | [8 daily guides](./module-02-daily-lessons/) |
+| 03 | FinOps Analytics and Database Engineering | 16–22 | [Module 03](./module-03-finops-analytics.md) | [7 daily guides](./module-03-daily-lessons/) |
+| 04 | Docker, Kubernetes, AKS and Container FinOps | 23–30 | [Module 04](./module-04-kubernetes-aks-finops.md) | [8 daily guides](./module-04-daily-lessons/) |
+| 05 | Generative AI, Microsoft Foundry and RAG | 31–37 | [Module 05](./module-05-generative-ai-rag.md) | [7 daily guides](./module-05-daily-lessons/) |
+| 06 | AI Agents, Anomaly Detection and Predictive FinOps | 38–44 | [Module 06](./module-06-ai-agents-predictive-finops.md) | [7 daily guides](./module-06-daily-lessons/) |
+| 07 | FastAPI, Terraform, DevOps and Deployment | 45–52 | [Module 07](./module-07-fastapi-terraform-devops.md) | [8 daily guides](./module-07-daily-lessons/) |
+| 08 | Security, Testing and Final Product | 53–60 | [Module 08](./module-08-security-testing-final-product.md) | [8 daily guides](./module-08-daily-lessons/) |
 
 ## Daily learning format
 
