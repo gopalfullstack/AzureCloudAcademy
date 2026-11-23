@@ -9,13 +9,13 @@ Welcome to Module 1. Each day has its own learning guide, resources, practical l
 
 | Day | Learning guide | Main outcome |
 |---|---|---|
-| 1 | [Day 1 – Python Fundamentals](day-01-python-fundamentals.md) | Python setup and cost calculator |
-| 2 | [Day 2 – Loops, Collections and Functions](day-02-loops-collections-functions.md) | Resource cost report |
-| 3 | [Day 3 – OOP, Errors and Logging](day-03-oop-errors-logging.md) | Reusable resource class |
-| 4 | [Day 4 – Pandas, CSV and JSON](day-04-pandas-csv-json.md) | Billing data analysis |
-| 5 | [Day 5 – REST APIs and Postman](day-05-rest-apis-postman.md) | Python API client |
-| 6 | [Day 6 – Git and GitHub](day-06-git-github.md) | Version-controlled repository |
-| 7 | [Day 7 – CloudSaver Final Project](day-07-cloudsaver-final-project.md) | CloudSaver Billing Processor v1 |
+| 1 | [Day 1 – Python Fundamentals](module-01-daily-lessons/day-01-python-fundamentals.md) | Python setup and cost calculator |
+| 2 | [Day 2 – Loops, Collections and Functions](module-01-daily-lessons/day-02-loops-collections-functions.md) | Resource cost report |
+| 3 | [Day 3 – OOP, Errors and Logging](module-01-daily-lessons/day-03-oop-errors-logging.md) | Reusable resource class |
+| 4 | [Day 4 – Pandas, CSV and JSON](module-01-daily-lessons/day-04-pandas-csv-json.md) | Billing data analysis |
+| 5 | [Day 5 – REST APIs and Postman](module-01-daily-lessons/day-05-rest-apis-postman.md) | Python API client |
+| 6 | [Day 6 – Git and GitHub](module-01-daily-lessons/day-06-git-github.md) | Version-controlled repository |
+| 7 | [Day 7 – CloudSaver Final Project](module-01-daily-lessons/day-07-cloudsaver-final-project.md) | CloudSaver Billing Processor v1 |
 
 ## Daily class timetable
 
